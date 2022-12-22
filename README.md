@@ -53,7 +53,9 @@ Viz made with PowerBI
 
 * Infos about the city
 * Sales Analysis
-* Properties specifications 
+* Neightborhood
+* Property Specs
+* Owners
 
 
 
