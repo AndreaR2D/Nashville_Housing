@@ -61,6 +61,11 @@ Add an Owner Type column
 
 > Corporation are defined by : LLC; TRUST; GP; INC; TRUSTEE; TRUSTS; TRUST; IRA; INCORPORATED; DREAMINC; LANDTRUST; PLLC. If they have one of this attribute in their name, I assume they are Corpo.
 
+
+Normalize names
+
+> Some Land Use names were written differently but mean the same.
+
 ## Data Visualization
 
 Viz made with PowerBI
@@ -69,7 +74,7 @@ Viz made with PowerBI
 * Sales Analysis
 * Neightborhood
 * Property Specs
-* Owners
+* Owners types
 
 ## Report 
 
