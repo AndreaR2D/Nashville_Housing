@@ -8,12 +8,21 @@ This dataset contains informations about the Nashvilles house market between 201
 
 
 Before cleaning:
-32 Columns;
-56 640 records
+
+> 32 Columns;
+> 56 640 records
 
 After cleaning:
-28 Columns;
-56 465 records
+
+> 29 Columns;
+> 56 465 records
+
+Data Types:
+
+> * INT: [Unique ID; Sale Price; Land Value; Building Value; Total Value; Year Built; Bedrooms; Full Bath; Half Bath]
+> * String: [Parcel ID; Land Use; Property Adress; Street Name; Suite/Condo#; Property City; Legal Reference; Sold As Vacant; Multiple Parcel; Owner Name; Adress; Tax District; Neightborhood; Finished Area; Foundation Type; Exterior Wall; Grade; Owner Type]
+> * Date: [Sale Date]
+> * Float: [Acreage]
 
 
 ## Data cleaning
@@ -57,6 +66,9 @@ Viz made with PowerBI
 * Property Specs
 * Owners
 
+## Report 
+
+PowerPoint document
 
 
 
