@@ -72,13 +72,15 @@ Normalize names
 
 ## Data Visualization (WIP)
 
-Viz made with PowerBI
+Viz made with PowerBI and QGIS
 
 * Infos about the city
 * Sales Analysis
-* Neightborhood
+* Neightborhoods: I've used city public dataset from data.nashville.gov, extracted the centroid with QGIS then import the coordinates in PowerBI to link the orignal dataset 
 * Property Specs
 * Owners types
+
+
 
 ## Report  (WIP)
 
