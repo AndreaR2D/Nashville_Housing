@@ -2,6 +2,11 @@
 
 Analysis of the Nashville 2013-2016 house market
 
+
+## Tools used
+Excel, PowerBI, QGIS, Powerpoint
+
+
 ## Data Profiling
 
 This dataset contains informations about the Nashvilles house market between 2013 and 2016. Each record have the location, the price, the sale date, specifications, owner name, ....
