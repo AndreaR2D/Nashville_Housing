@@ -75,18 +75,16 @@ Normalize names
 
 > Some Land Use names were written differently but had the same meaning.
 
-## Data Visualization (WIP)
+## Data Visualization
 
-Viz made with PowerBI and QGIS
+Viz made with PowerBI 
+
+## Report
+
+PowerPoint document 
 
 * Infos about the city
 * Sales Analysis
 * Neightborhoods: I've used city public dataset from data.nashville.gov, extracted the centroid with QGIS then import the coordinates in PowerBI to link the orignal dataset 
 * Property Specs
 * Owners types
-
-
-
-## Report  (WIP)
-
-PowerPoint document 
